@@ -94,3 +94,26 @@ canvas{
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
+/*  */
+
+#canvas{
+	background-color: white;
+	
+}
+h1 {
+	text-align: center;
+  font-size: 50px;
+  margin-bottom: 40px;
+  color:white
+}
+#out{
+font-size: 16px;
+color: white;
+}
+.app{
+  position: absolute;
+  top:0;
+  left:50%;
+  transform: translateX(-50%);
+  margin-top:20px
+}
